@@ -1,1 +1,1 @@
-ME-Grid-Lite Version-0.0 dated:Jun 10, 2021
+ME-Grid-Lite Version-1.0 dated:Aug 6, 2021
